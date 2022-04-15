@@ -4,7 +4,7 @@ Hi 👋 My name is Tshepang
 Mobile App developer
 --------------------
 
-I'm a software engineer, with experience building mobile and web applications using Flutter, React Native, React, javascript. I like to explore new frameworks!
+I'm a software engineer, with experience building mobile and web applications. I like to explore new frameworks, and build awesome web 3.0 projects on weekends! when i'm not on my pc, i like to take walks around the park and ice skate
 
 * 🌍  I'm based in Pretoria, South Africa
 * 🖥️  See my portfolio at [tshepang-portfolio.web.app/](http://tshepang-portfolio.web.app/)
